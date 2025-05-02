@@ -1,0 +1,9 @@
+Metric,Value
+Class Imbalance (Sex), -0.103
+Class Imbalance (Race), -0.268
+KL Divergence (Sex),0.07622312808468107
+KL Divergence (Race),0.017199948826109326
+KS (Sex),0.19434423463497563
+KS (Race),0.0926093953967978
+CDDL (Sex),-0.1829105250738329
+CDDL (Race),0.07558492867204075

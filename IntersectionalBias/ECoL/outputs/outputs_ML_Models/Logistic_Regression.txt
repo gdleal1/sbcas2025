@@ -1,0 +1,19 @@
+=== Global evaluation ===
+Accuracy: 0.9245454545454546
+F1-score: 0.9243391066545122
+
+=== False Positives (FP) and False Negatives (FN) by Sex ===
+Sex = 0 → FPs: 54 (4.50%), FNs: 48 (4.00%)
+Sex = 1 → FPs: 33 (3.30%), FNs: 31 (3.10%)
+
+=== Percentage of correct answers per subgroup of Sex ===
+Sex = 0: 1099/1201 corrects → 91.51%
+Sex = 1: 935/999 corrects → 93.59%
+
+=== False Positives (FP) and False Negatives (FN) by Race ===
+Race = 0 → FPs: 23 (2.92%), FNs: 21 (2.67%)
+Race = 1 → FPs: 64 (4.53%), FNs: 58 (4.10%)
+
+=== Percentage of correct answers per subgroup of Race ===
+Race = 0: 743/787 corrects → 94.41%
+Race = 1: 1291/1413 corrects → 91.37%

@@ -1,0 +1,30 @@
+Dataset Name: intersectional-bias-discretized.csv 
+Number of Instances: 11000 
+Number of Features: 19 
+Target attribute: Diagnosis
+
+Complexity Measures:
+ featurebased.F1.mean    featurebased.F1.sd featurebased.F1v.mean 
+         0.9077103395          0.0966467662          0.1002419708 
+  featurebased.F1v.sd  featurebased.F2.mean    featurebased.F2.sd 
+                   NA          0.0607719743                    NA 
+ featurebased.F3.mean    featurebased.F3.sd  featurebased.F4.mean 
+         0.9370909091                    NA          0.8982727273 
+   featurebased.F4.sd       neighborhood.N1  neighborhood.N2.mean 
+                   NA          0.1697272727          0.4386175176 
+   neighborhood.N2.sd  neighborhood.N3.mean    neighborhood.N3.sd 
+         0.0496147737          0.1069090909                    NA 
+ neighborhood.N4.mean    neighborhood.N4.sd       neighborhood.N5 
+         0.0146363636                    NA          0.7716363636 
+      neighborhood.N6     linearity.L1.mean       linearity.L1.sd 
+         0.9973445537          0.0515498006                    NA 
+    linearity.L2.mean       linearity.L2.sd     linearity.L3.mean 
+         0.0684545455                    NA          0.0330909091 
+      linearity.L3.sd     dimensionality.D1     dimensionality.D2 
+                   NA          0.0016363636          0.0012727273 
+    dimensionality.D3            balance.B1            balance.B2 
+         0.7777777778          0.0003666902          0.0010160786 
+           network.G1            network.G2       network.G3.mean 
+         0.8849691460          0.3971889585          0.8105084025 
+        network.G3.sd 
+         0.2678784504 

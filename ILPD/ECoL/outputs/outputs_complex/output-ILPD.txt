@@ -1,0 +1,30 @@
+Dataset Name: ILPD-discretized.csv 
+Number of Instances: 583 
+Number of Features: 11 
+Target attribute: Diagnosis
+
+Complexity Measures:
+ featurebased.F1.mean    featurebased.F1.sd featurebased.F1v.mean 
+         9.727559e-01          1.761637e-02          6.001411e-01 
+  featurebased.F1v.sd  featurebased.F2.mean    featurebased.F2.sd 
+                   NA          1.940724e-05                    NA 
+ featurebased.F3.mean    featurebased.F3.sd  featurebased.F4.mean 
+         8.885077e-01                    NA          7.718696e-01 
+   featurebased.F4.sd       neighborhood.N1  neighborhood.N2.mean 
+                   NA          5.214408e-01          4.374576e-01 
+   neighborhood.N2.sd  neighborhood.N3.mean    neighborhood.N3.sd 
+         1.515238e-01          3.379074e-01                    NA 
+ neighborhood.N4.mean    neighborhood.N4.sd       neighborhood.N5 
+         1.801029e-01                    NA          6.054889e-01 
+      neighborhood.N6     linearity.L1.mean       linearity.L1.sd 
+         9.909706e-01          2.226369e-01                    NA 
+    linearity.L2.mean       linearity.L2.sd     linearity.L3.mean 
+         2.864494e-01                    NA          2.830189e-01 
+      linearity.L3.sd     dimensionality.D1     dimensionality.D2 
+                   NA          1.715266e-02          5.145798e-03 
+    dimensionality.D3            balance.B1            balance.B2 
+         3.000000e-01          1.359096e-01          3.085471e-01 
+           network.G1            network.G2       network.G3.mean 
+         8.771257e-01          4.049728e-01          8.547503e-01 
+        network.G3.sd 
+         1.558012e-01 

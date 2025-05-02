@@ -1,0 +1,47 @@
+			================== EXECUTION GUIDE FOR THE FILES ==================
+
+There are folders for each dataset used, which contain files that allow derivative datasets to be created, complexity measures to be calculated and graphs to be generated for the results.
+
+------ GENERAL FILES ------
+
+create_dataset.py: It allows you to create datasets for your experiences, separating them according to a sensitive attribute. It also allows non-numerical attributes to be discretized.
+
+calculate_complex.R: R script for downloading necessary packages and calculating the complexity of datasets. Save the results in a txt file.
+
+generate_csv.py: Generate a csv file with the output file created in calculate_complex.R script.
+
+calculate_diff.py: Subtracts the values of the complexity measures of the df1 dataset from the values of the df2 dataset and saves the result in a new CSV file.
+
+calculate_increase.py:  Calculate the increase percentage of the complexity measures of a dataset over other dataset and save the result in a new CSV file.
+
+calculate_score.py: Calculates a score for each complexity measure group of a dataset.
+
+
+------ GRAPHIC FILES ------
+
+graphics_complex.py: Create a graphic with the complexity measures for a dataset.
+
+graphics_diff.py: Create a graphic with the difference of the complexity measures between two datasets.
+
+graphics_increase.py: Create a graphic with the percentage of increase in complexity measures for a dataset in relation to another dataset.
+
+graphics_scores.py: Create a graphic with the scores by measure group for a dataset.
+
+graphics_scores_compare.py: Generates graphs of score for groups of complexity measures for comparison according to the sensitive attributes.
+
+graphics_PCA.py: Generate graphic representation of the PCA for the dataset.
+
+graphics_compare.py:  Generates graphs of dataset complexity measures for comparison according to the sensitive attributes.
+
+
+------ EXECUTION ORDER ------
+
+create_dataset.py --> calculate_complex.R --> generate_csv.py --> other general files --> other graphic files
+
+
+------ PTB FOLDER ------
+
+Contains the files needed to calculate the pre-training bias metrics
+
+
+

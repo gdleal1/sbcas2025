@@ -1,0 +1,11 @@
+=== Global evaluation ===
+Accuracy: 0.7094017094017094
+F1-score: 0.8068181818181818
+
+=== False Positives (FP) and False Negatives (FN) by Sex ===
+Sex = 1 → FPs: 14 (16.47%), FNs: 11 (12.94%)
+Sex = 0 → FPs: 4 (12.50%), FNs: 5 (15.62%)
+
+=== Percentage of correct answers per subgroup of Sex ===
+Sex = 1: 60/85 corrects → 70.59%
+Sex = 0: 23/32 corrects → 71.88%

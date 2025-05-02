@@ -1,0 +1,30 @@
+Dataset Name: white-discretized.csv 
+Number of Instances: 4026 
+Number of Features: 18 
+Target attribute: Diagnosis
+
+Complexity Measures:
+ featurebased.F1.mean    featurebased.F1.sd featurebased.F1v.mean 
+          0.891910524           0.143132092           0.075284615 
+  featurebased.F1v.sd  featurebased.F2.mean    featurebased.F2.sd 
+                   NA           0.059329510                    NA 
+ featurebased.F3.mean    featurebased.F3.sd  featurebased.F4.mean 
+          0.877794337                    NA           0.795827124 
+   featurebased.F4.sd       neighborhood.N1  neighborhood.N2.mean 
+                   NA           0.140834575           0.435181785 
+   neighborhood.N2.sd  neighborhood.N3.mean    neighborhood.N3.sd 
+          0.046539478           0.083209141                    NA 
+ neighborhood.N4.mean    neighborhood.N4.sd       neighborhood.N5 
+          0.007451565                    NA           0.763288624 
+      neighborhood.N6     linearity.L1.mean       linearity.L1.sd 
+          0.994116916           0.035031747                    NA 
+    linearity.L2.mean       linearity.L2.sd     linearity.L3.mean 
+          0.044709389                    NA           0.018877298 
+      linearity.L3.sd     dimensionality.D1     dimensionality.D2 
+                   NA           0.004222553           0.003477397 
+    dimensionality.D3            balance.B1            balance.B2 
+          0.823529412           0.006503951           0.017845010 
+           network.G1            network.G2       network.G3.mean 
+          0.878637552           0.287529102           0.826094148 
+        network.G3.sd 
+          0.254773975 
