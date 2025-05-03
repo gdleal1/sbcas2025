@@ -15,7 +15,7 @@ def create():
     plt.figure(figsize=(8, 6))
     plt.bar(scores_df['Measure Group'], scores_df['Score'], color=['blue', 'orange', 'green'])
     plt.title(TITLE, fontsize=16)
-    plt.ylim(0, 0.7)
+    plt.ylim(0, 2.02)
     plt.xticks(rotation=45, fontsize=12)
     plt.tight_layout()
 

@@ -15,11 +15,11 @@ def std_dev(data):
 
 # Calculates the score for the group
 def score(data):
-    return round((mean_absolute(data)*0.5 + max_absolute(data)*0.3 + std_dev(data)*0.2),2)
+    return round((mean_absolute(data) + max_absolute(data) + std_dev(data)),2)
 
 
 
-NAME_OUTPUT = 'male'
+NAME_OUTPUT = 'ILPD'
 output_path = f'outputs/outputs_complex/output-{NAME_OUTPUT}.csv'  
 data = pd.read_csv(output_path)
 
