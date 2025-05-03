@@ -23,7 +23,7 @@ git clone https://github.com/gdleal1/sbcas2025.git
 ```
 
 ## 4. Code execution
-The execution guide and description of the files used in the project is available in [EXECUTION_GUIDE.TXT](EXECUTION_GUIDE.TXT).
+The execution guide and description of the files used in the project is available in [EXECUTION_GUIDE.TXT](EXECUTION_GUIDE.txt).
 
 
 # Data Complexity Measures
