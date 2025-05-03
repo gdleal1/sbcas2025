@@ -54,6 +54,12 @@ Understanding the complexity of a dataset is fundamental to mitigating biases in
 
 It is important to note that most of these measures vary between 0 and 1. **The closer the value is to the upper limit, the greater the complexity of the dataset analyzed.**
 
+**All Measures in ECoL package:**
+
+![Screenshot from 2024-10-25 09-30-14](https://github.com/user-attachments/assets/47434638-4e4b-4edf-acf4-20952162885b)
+
+---
+
 # Pre-Training Bias Metrics
 The pre-training bias metrics used in this work consider for the calculation a demographic attribute that has
 two values: One represents the group favored by the bias, i.e. the over-represented or
@@ -83,12 +89,6 @@ itive values indicating demographic disparity and negative values suggesting the
 opposite.
 
 ---
-**All Measures in ECoL package:**
-
-![Screenshot from 2024-10-25 09-30-14](https://github.com/user-attachments/assets/47434638-4e4b-4edf-acf4-20952162885b)
-
----
-
 
 # Results
 
