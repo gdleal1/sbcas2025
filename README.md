@@ -1,10 +1,9 @@
 # <p align="center">Can Data Complexity Measures Detect Pre-Training Bias in Machine Learning? A Case-Study with Health Data.</p>
 
+# 📖 About 
+This repository was developed during my time as a scientific initiation fellow at Instituto de Informática - UFRGS. An article summarizing the results obtained was written for the project. This article was submitted and accepted for SBCAS 2025 (Simpósio Brasileiro de Computação Aplicada à Saúde). 
 
-# Abstract
-This study investigates the potential of data complexity measures to identify biases in health datasets that may affect the fairness of machine learning models. Bias in healthcare data can lead to unfair outcomes for vulnerable populations, undermining the integrity and reliability of predictive models in medical applications. Our approach uses data complexity metrics to identify features at risk of introducing bias into model training. We validate our approach by comparing the identified features with traditional pre-training bias metrics, establishing the value of complexity measures as early indicators of bias. This complexity-based bias detection framework can inform bias mitigation strategies, such as feature selection and data reweighting, to improve model fairness in health-related machine learning applications. The results provide insights into using data complexity for bias detection and open pathways to fairer and more transparent predictive models in healthcare.
-
-# Install and Run
+# 🚀 Install and Run
 ## 1. (Optional) Set up a virtual environment:
 ```bash
 python -m venv venv
@@ -25,6 +24,8 @@ git clone https://github.com/gdleal1/sbcas2025.git
 ## 4. Code execution
 The execution guide and description of the files used in the project is available in [EXECUTION_GUIDE.txt](EXECUTION_GUIDE.txt).
 
+# Abstract
+This study investigates the potential of data complexity measures to identify biases in health datasets that may affect the fairness of machine learning models. Bias in healthcare data can lead to unfair outcomes for vulnerable populations, undermining the integrity and reliability of predictive models in medical applications. Our approach uses data complexity metrics to identify features at risk of introducing bias into model training. We validate our approach by comparing the identified features with traditional pre-training bias metrics, establishing the value of complexity measures as early indicators of bias. This complexity-based bias detection framework can inform bias mitigation strategies, such as feature selection and data reweighting, to improve model fairness in health-related machine learning applications. The results provide insights into using data complexity for bias detection and open pathways to fairer and more transparent predictive models in healthcare.
 
 # Data Complexity Measures
 Understanding the complexity of a dataset is fundamental to mitigating biases in machine learning models since complexity is directly related to the quality and diversity of the data, as well as the model's ability to generalize without learning biased patterns. The **data complexity measures** used in our study describe the regularities and irregularities contained in a dataset and are used to estimate the difficulty of separating instances into their expected classes. These measures were implemented in a R package called **ECoL**, divided into three groups:
