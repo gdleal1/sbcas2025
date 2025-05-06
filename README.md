@@ -1,7 +1,7 @@
 # <p align="center">Can Data Complexity Measures Detect Pre-Training Bias in Machine Learning? A Case-Study with Health Data.</p>
 
 # 📖 About 
-This repository was developed during my time as a scientific initiation fellow at Instituto de Informática - UFRGS. An article summarizing the results obtained was written for the project. This article was submitted and accepted for SBCAS 2025 (Simpósio Brasileiro de Computação Aplicada à Saúde). 
+This repository was developed during my time as a scientific initiation fellow at Instituto de Informática - UFRGS. A paper summarizing the results obtained was written for the project. This paper was submitted and accepted for SBCAS 2025 (Simpósio Brasileiro de Computação Aplicada à Saúde). 
 
 # 🚀 Install and Run
 ## 1. (Optional) Set up a virtual environment:
