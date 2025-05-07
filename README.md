@@ -154,3 +154,7 @@ https://doi.org/10.24432/C5D02C.
 [6] [Sotoca et al. 2005] Sotoca, J. M., S´anchez, J. S., and Mollineda, R. A. (2005). A review
 of data complexity measures and their applicability to pattern classification problems.
 Actas del III Taller Nacional de Mineria de Datos y Aprendizaje. TAMIDA, 77.
+
+[7] [Rodrigues 2023] Rodrigues, D. D. (2023). Assessing pre-training bias in health data and
+estimating its impact on machine learning algorithms. Bachelor’s thesis, Ciência da
+Computação, Instituto de Informática, Universidade Federal do Rio Grande do Sul.
