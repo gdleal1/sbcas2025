@@ -6,7 +6,7 @@ This repository was developed during my time as a scientific initiation fellow a
 # 🚀 Install and Run
 ## 1. (Optional) Set up a virtual environment:
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate    
 ```
 
